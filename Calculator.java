@@ -54,6 +54,10 @@ public static int add(int a, int b) {
 	public static int divide(int a, int b) {
 		return a / b;
 	}
+	
+	 // Group 10: Check if numbers are equal (Member: Casas)
+    public static boolean isEqual(int a, int b) {
+        return a == b;
 
 
 }
